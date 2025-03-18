@@ -2,7 +2,8 @@
 
 Uma aplicação para gerenciar o controle de estoque de produtos, ideal para pequenas e médias empresas que buscam organizar e monitorar seus inventários de forma prática e eficiente.
 
-Funcionalidades
+# Funcionalidades
+
 Cadastro de produtos com informações detalhadas.
 
 Registro de entradas e saídas de produtos.
@@ -11,7 +12,8 @@ Controle de estoque mínimo e alertas de baixa quantidade.
 
 Relatórios de movimentação e histórico de produtos.
 
-Pré-requisitos
+# Pré-requisitos
+
 Antes de começar, certifique-se de ter os seguintes itens instalados:
 
 Python 3.9 ou superior.
@@ -20,20 +22,24 @@ Django (se o projeto utiliza este framework).
 
 Outras dependências listadas no arquivo requirements.txt.
 
-Instalação
+# Instalação
+
 Clone este repositório em sua máquina local:
 
-bash
+```bash
 git clone https://github.com/Juskk59/ControleEstoque.git
 cd ControleEstoque
-Instale as dependências:
+```
+# Instale as dependências:
 
-bash
+```bash
 pip install -r requirements.txt
-Configure o banco de dados (exemplo para Django):
+```
+# Configure o banco de dados (exemplo para Django):
 
-bash
+```bash
 python manage.py migrate
+```
 Inicie o servidor local:
 
 bash
