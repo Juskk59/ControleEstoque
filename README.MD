@@ -1,4 +1,5 @@
-Controle de Estoque
+# Controle de Estoque
+
 Uma aplicação para gerenciar o controle de estoque de produtos, ideal para pequenas e médias empresas que buscam organizar e monitorar seus inventários de forma prática e eficiente.
 
 Funcionalidades
