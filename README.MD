@@ -30,35 +30,26 @@ Clone este repositório em sua máquina local:
 git clone https://github.com/Juskk59/ControleEstoque.git
 cd ControleEstoque
 ```
-# Instale as dependências:
+Instale as dependências:
 
 ```bash
 pip install -r requirements.txt
 ```
-# Configure o banco de dados (exemplo para Django):
+Configure o banco de dados (exemplo para Django):
 
 ```bash
 python manage.py migrate
 ```
 Inicie o servidor local:
 
-bash
+```bash
 python manage.py runserver
-Como Usar
+```
+
+# Como Usar
 Acesse o sistema através do navegador usando o link fornecido pelo servidor local.
 
 Cadastre produtos, insira entradas/saídas e visualize relatórios de estoque diretamente pela interface.
-
-Contribuição
-Contribuições são bem-vindas! Para contribuir:
-
-Faça um fork do projeto.
-
-Crie uma branch para suas alterações:
-
-bash
-git checkout -b minha-alteracao
-Envie suas alterações e abra um pull request.
 
 Licença
 Este projeto está licenciado sob a licença MIT. Sinta-se à vontade para usar e modificar conforme necessário.
