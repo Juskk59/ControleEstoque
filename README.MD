@@ -51,5 +51,5 @@ Acesse o sistema através do navegador usando o link fornecido pelo servidor loc
 
 Cadastre produtos, insira entradas/saídas e visualize relatórios de estoque diretamente pela interface.
 
-Licença
+# Licença
 Este projeto está licenciado sob a licença MIT. Sinta-se à vontade para usar e modificar conforme necessário.
